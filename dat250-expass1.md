@@ -37,7 +37,7 @@ To check which Maven version my system has installed
 ```git --version```
 To check which Git version my system has installed
 
-If any of these commands gives the result "x command is not recognized", then x is not installed and added to environment or system variables.
+If any of these commands gives the result "x command is not recognized", then x is not installed or added to environment/system variables.
 
 With the technics discussed above I validated the following version are installed on my computer:
 
@@ -61,5 +61,4 @@ The only issue I experienced, came from me not reading the tutorial well enough.
 <h3>  Pending issues with this assignment  </h3>
 
 I believe I managed to solve everything.
-
 
