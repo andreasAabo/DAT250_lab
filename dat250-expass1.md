@@ -14,7 +14,7 @@ https://salty-forest-61050.herokuapp.com/hello  (Takes you to config vars exampl
 
 https://salty-forest-61050.herokuapp.com/db (Takes you to database example page, from the Heroku java tutorial)
 
-----
+###
 
 <h3> Technical problems </h3>
 I did not have any problems during the installation of the software development environment. However, I made the assumption that Maven was already installed on my computer, since I have previously worked with Maven in IntelliJ. I Still checked that Maven was installed with the command, 
