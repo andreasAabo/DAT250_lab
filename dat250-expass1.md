@@ -23,9 +23,9 @@ To check which Maven version my system has installed
 ```git --version```
 To check which Git version my system has installed
 
-If any of these commands gives the result "x command is not recgognised", then x is not installed and added to enviroment or system variables.
+If any of these commands gives the result "x command is not recognized", then x is not installed and added to environment or system variables.
 
-With the technics discussed above I validated  the follwing version are installed on my computer:
+With the technics discussed above I validated the following version are installed on my computer:
 
 ```
 Java 16.0.2
@@ -33,18 +33,19 @@ Apache Maven 3.8.2
 git version 2.25.1
 ```
 
-As to validating that my IDE is working, I made sure that my IDE of choice, IntelliJ, was running the latest version (IntelliJ IDEA 2021.2.1). Made sure the licens for students was still going. And made a small fizz-buzz java program to make sure everything worked as expected.
+As to validating that my IDE is working, I made sure that my IDE of choice, IntelliJ, was running the latest version (IntelliJ IDEA 2021.2.1). Made sure the license for students was still going. And made a small fizz-buzz java program to make sure everything worked as expected.
 
 
 ---
 
 <h3> Technical problems encountered with the Heroku platform </h3>
 
-The only issue I experienced, came from me not reading the tutorial well enough. I copy-pasted the code in "Use a database" section into Main.java, not realising that the code shown in the tutorial already existing within Main.java. Resolved it by removing the code I added.
+The only issue I experienced, came from me not reading the tutorial well enough. I copy-pasted the code in "Use a database" section into Main.java, not realizing that the code shown in the tutorial already existing within Main.java. Resolved it by removing the code I added.
 
 ---
 
 <h3>  Pending issues with this assignment  </h3>
 
-I belive i managed to solve everything. 
+I believe I managed to solve everything.
+
 
