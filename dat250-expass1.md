@@ -29,6 +29,7 @@ where the command mvn was not recognized, meaning Maven was not installed. Turns
 <h3> Validated that the software development environment is working </h3>
 
 To validate that software development environment is working I just ran these commands in the cmd:
+
 ```java --version```
 To check which java version my system has installed
 
