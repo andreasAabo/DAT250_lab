@@ -24,7 +24,7 @@ To check which Git version my system has installed
 
 If any of these commands gives the result "x command is not recgognised", then x is not installed and added to enviroment or system variables.
 
-With the technics discussed above I validated  the follwing version are installed on my computer and that the software development environment is working
+With the technics discussed above I validated  the follwing version are installed on my computer:
 
 ```
 Java 16.0.2
@@ -32,7 +32,7 @@ Apache Maven 3.8.2
 git version 2.25.1
 ```
 
-As to validating that my IDE is working, I made sure that my IDE of choice IntelliJ was running the latest version (IntelliJ IDEA 2021.2.1). Made sure the licens for students was still going. And made a small fizz-buzz java program to make sure everything worked as expected.
+As to validating that my IDE is working, I made sure that my IDE of choice, IntelliJ, was running the latest version (IntelliJ IDEA 2021.2.1). Made sure the licens for students was still going. And made a small fizz-buzz java program to make sure everything worked as expected.
 
 
 ---
