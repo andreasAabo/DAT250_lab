@@ -48,7 +48,7 @@ Apache Maven 3.8.2
 git version 2.25.1
 ```
 
-As to validating that my IDE is working, I made sure that my IDE of choice, IntelliJ, was running the latest version (IntelliJ IDEA 2021.2.1). Made sure the license for students was still going. And made a small fizz-buzz java program to make sure everything worked as expected.
+As to validating that my IDE is working, I made sure that my IDE of choice, IntelliJ, was running the latest version (IntelliJ IDEA 2021.2.1). Made sure the license for students was still activated. And made a small fizz-buzz java program to make sure everything worked as expected.
 
 
 ---
