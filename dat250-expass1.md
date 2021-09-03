@@ -2,7 +2,7 @@
 
 <h4> Link to the Heroku platform</h4>
 
-All the linkes shared below takes you to the Java applications on the Heroku cloud platform. The only changes I made to the code that I cloned in the tutorial are those discussed in the Getting Started on Heroku with Java tutorial.
+All the linkes shared below takes you to the Java applications on the Heroku cloud platform. The only changes I made to the code that I cloned in the tutorial are those discussed in the _Getting Started on Heroku with Java_ tutorial.
 
 https://salty-forest-61050.herokuapp.com/ (Takes you to the main getting started page, from the Heroku java tutorial)
 
