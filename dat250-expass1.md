@@ -19,8 +19,8 @@ https://salty-forest-61050.herokuapp.com/db (Takes you to database example page,
 ---
 
 <h3> Technical problems </h3>
-I did not have any problems during the installation of the software development environment. However, I made the assumption that Maven was already installed on my computer, since I have previously worked with Maven in IntelliJ. I Still checked that Maven was installed with the command, 
-```mvn --version```py 
+I did not have any problems during the installation of the software development environment. However, I made the assumption that Maven was already installed on my computer, since I have previously worked with Maven in IntelliJ. I Still checked that Maven was installed with the command:
+```mvn --version```
 where the command mvn was not recognized, meaning Maven was not installed. Turns out IntelliJ has built in maven support. From there I installed Maven and added the right environment-variables (MAVEN_HOME and M2_HOME) and system path. This avoided any technical issues related to Maven when working with the Heroku platform.
 
 ---
