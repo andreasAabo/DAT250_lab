@@ -11,6 +11,11 @@ I did not have any problems during the installation of the software development 
 
 <h3> Validated that the software development environment is working </h3>
 
+To validate that software development environment is working I just ran these commands in the cmd:
+```java --version```
+```mvn --version```
+```git --version```
+
 ---
 
 <h3> Technical problems encountered with the Heroku platform </h3>
