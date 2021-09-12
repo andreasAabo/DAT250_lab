@@ -27,7 +27,7 @@ The first problem i encountered was when i tried to import the project into Inte
 
 <h3> How I inspected the database tables </h3>
 
-
+![Select Person](assets/ex2/selectPerson.png?raw=true)
 ---
 
 <h3>  Pending issues with this assignment  </h3>
