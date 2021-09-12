@@ -28,6 +28,25 @@ The first problem i encountered was when i tried to import the project into Inte
 <h3> How I inspected the database tables </h3>
 
 ![Select Person](assets/ex2/selectPerson.png?raw=true)
+
+![Select Address](assets/ex2/selectAddress.png?raw=true)
+
+![Select CreditCard](assets/ex2/selectCreditCard.png?raw=true)
+
+![Select Bank](assets/ex2/selectBank.png?raw=true)
+
+![Select Pincode](assets/ex2/selectBank.png?raw=true)
+
+![Select Joined table Person address](assets/ex2/manyToMany_per_adr.png?raw=true)
+
+
+
+![Select Joined table person card](assets/ex2/JND_PER_CARD.png?raw=true)
+
+![Select joined table bank card](assets/ex2/JND_BANK_CARD.png?raw=true)
+
+![SHOW TABLE](assets/ex2/showtables.png?raw=true)
+
 ---
 
 <h3>  Pending issues with this assignment  </h3>
