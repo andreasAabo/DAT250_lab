@@ -23,7 +23,7 @@ The first problem I encountered was when I tried to import the project into Inte
 
 I also had problems with persisting entities into the database. This was caused by multiple issues. I had made a mistake with the many to many relationship in the Address class. I also thought it was possible to map ArrayList's to the database. Resolved the ArrayList issue with instead using List objects. 
 
-It also took me some time to understand I needed to add the classes to the presitence.xml scheme. Resolved this by eventually adding the classes needed in the xml scheme.
+It also took me some time to understand I needed to add the classes to the presitence.xml schema. Resolved this by eventually adding the classes needed in the xml schema.
 
 
 
