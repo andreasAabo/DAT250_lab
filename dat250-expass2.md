@@ -82,6 +82,7 @@ From here I can inspect every table with simple SQL commands:
 ![Select joined table bank card](assets/ex2/JND_BANK_CARD.png?raw=true)
 
 
+```SHOW TABLES;```
 
 ![SHOW TABLE](assets/ex2/showtables.png?raw=true)
 
