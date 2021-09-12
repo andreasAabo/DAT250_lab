@@ -65,7 +65,8 @@ From here I can inspect every table with simple SQL commands:
 ![Select Pincode](assets/ex2/selectPincode.png?raw=true)
 
 
-```SELECT * FROM JND_PER_ADR;```
+```SELECT * FROM JND_PER_ADR;``` and
+```SELECT * FROM JND_ADR_PER;```
 
 ![Select Joined table Person address](assets/ex2/manyToMany_per_adr.png?raw=true)
 
