@@ -86,6 +86,14 @@ From here I can inspect every table with simple SQL commands:
 
 ![SHOW TABLE](assets/ex2/showtables.png?raw=true)
 
+<br>
+
+***How can you check that the object links are saved correctly in the database?***
+
+Ideally I should probably have made some junit-tests, and made sure that the objects put into the database, also could be retrived and maintainted the correct relasheship.
+
+The manual way of making sure the links are correctly saves in the database, will be to look at the tables that I inspected above, and espacially trackin the diffrent foregin keys. For example, Max 
+
 ---
 
 <h3>  Pending issues with this assignment  </h3>
