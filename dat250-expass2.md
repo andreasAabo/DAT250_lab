@@ -33,7 +33,7 @@ It also took me some time to undestand i needed to add the classes to the presit
 
 To inspect the database tables, I use Apache Derby. More prescise after installing Apache Derby like the tutorial descibed, I can go into the bin folder ```C:\...\db-derby-10.15.2.0-bin\bin```, from my command line, and use the command 'ij'.
 
-Then i need to connect to my database. So the following command, connects derby to the database:
+Then i need to connect to my database. the following command connects derby to the database:
 
 ```connect 'jdbc:derby:C:\Users\andre\Skole\DAT250\DAT250_JPA\eclipselink\jpa-basic/db'; ```
 
@@ -41,30 +41,45 @@ From here I can inspect every table with simple SQL commands:
 
 
 ```SELECT * FROM PERSON;```
+
 ![Select Person](assets/ex2/selectPerson.png?raw=true)
 
+
 ```SELECT * FROM ADDRESS;```
+
 ![Select Address](assets/ex2/selectAddress.png?raw=true)
 
+
 ```SELECT * FROM CREDITCARD;```
+
 ![Select CreditCard](assets/ex2/selectCreditCard.png?raw=true)
 
+
 ```SELECT * FROM BANK;```
+
 ![Select Bank](assets/ex2/selectBank.png?raw=true)
 
+
 ```SELECT * FROM PINCODE;```
+
 ![Select Pincode](assets/ex2/selectPincode.png?raw=true)
 
+
 ```SELECT * FROM JND_PER_ADR;```
+
 ![Select Joined table Person address](assets/ex2/manyToMany_per_adr.png?raw=true)
 
 
 
 ```SELECT * FROM JND_PERSON_CARD;```
+
 ![Select Joined table person card](assets/ex2/JND_PER_CARD.png?raw=true)
 
+
 ```SELECT * FROM JND_BANK_CARD;```
+
 ![Select joined table bank card](assets/ex2/JND_BANK_CARD.png?raw=true)
+
 
 
 ![SHOW TABLE](assets/ex2/showtables.png?raw=true)
