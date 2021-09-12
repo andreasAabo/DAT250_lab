@@ -35,7 +35,7 @@ The first problem i encountered was when i tried to import the project into Inte
 
 ![Select Bank](assets/ex2/selectBank.png?raw=true)
 
-![Select Pincode](assets/ex2/selectBank.png?raw=true)
+![Select Pincode](assets/ex2/selectPincode.png?raw=true)
 
 ![Select Joined table Person address](assets/ex2/manyToMany_per_adr.png?raw=true)
 
