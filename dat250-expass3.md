@@ -3,15 +3,16 @@
 
 <h3> Technical problems </h3>
 
-All my problems in this experiment came from veryfing the integrity of the MongoDB packages.
+All my problems in this experiment came from verifying the integrity of the MongoDB packages.
 
 The main issue was that when I copied SHA256 signature of the latest version of MongoDB Community Edition:
+
 
 ```
 ed1cc2eee23f4fb9cc7f70867e29d7c9a1e1af1d9b4aa917d247a4921c4ffd7e  mongodb-windows-x86_64-5.0.3-signed.msi
 ```
 
-I stored it as a txt file and not .sha256. This created the issue where this error message came instead of what i wanted:
+I stored it as a txt file and not .sha256. This created the issue where this error message came instead of what I wanted:
 
 ![Error Message](assets/ex3/error.png?raw=true)
 
@@ -67,7 +68,7 @@ I took me longer than I like to admit that to solve this issue. The solution was
 
 <h4> My operation </h4>
 
-I put togheter that map reduces the orginal table to a table that show the quantaty of each sold item, the price for each item, and in total how much the item have sold for. This is useful since we can now see clearlyt which items that creates the most income. 
+I  map reduced the original table to a table that shows the quantity of each sold item, the price for each item, and in total how much the item has sold for. This is useful since we can now see clearly which item creates the most income.
 
 ![map my code](assets/ex3/terminal_ex3.png?raw=true)
 
@@ -122,5 +123,5 @@ db.total_price_for_each_item.find().sort( { _id: 1 } )
 
 <h3>  Pending issues with this assignment  </h3>
 
-I have no pending issues that I am aware off.
+I have no pending issues that I am aware of.
 
