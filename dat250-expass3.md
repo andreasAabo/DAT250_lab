@@ -16,7 +16,7 @@ I stored it as a txt file and not .sha256. This created the issue where this err
 
 ![Error Message](assets/ex3/error.png?raw=true)
 
-I took me longer than I like to admit that to solve this issue. The solution was simply selecting ***all files*** (and not .txt) when saving the file, with the correct name.
+I took me longer than I like to admit to solve this issue. The solution was simply selecting ***all files*** (and not .txt) when saving the file, with the correct name.
 
 <h4> veryfing the integrity of the MongoDB packages </h4>
 
