@@ -33,6 +33,7 @@ To jump between the links, just change branch in any of the links above.
 
 <h3> Technical problems </h3>
 
+I had no technical problems in this assignment.
 
 ---
 
