@@ -31,7 +31,7 @@ To jump between the links, just change branch in any of the links above.
 
 ---
 
-<h3> Technical problems encountered with the Heroku platform </h3>
+<h3> Technical problems </h3>
 
 
 ---
