@@ -1,4 +1,4 @@
-<h1> Software Technology Experiment 5 report, DAT250 </h1>
+<h1> Software Technology Experiment 6 report, DAT250 </h1>
 
 
 <h3> Links to the different experiments </h3>
