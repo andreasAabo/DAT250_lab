@@ -1,28 +1,32 @@
-<h1> Software Technology Experiment 6 report, DAT250 </h1>
+<h1> Software Technology Experiment 7 report, DAT250 </h1>
 
 
 <h3> Links to the different experiments </h3>
 
-***Experiment 1: Modell-View-Controller Web Applications***
+***Link to all the experiments***
 
-https://github.com/andreasAabo/Software-Technology-Experiment-6/tree/experiment1
-
-<br>
-
-***Experiment 2: Single-page Web Applications***
-
-https://github.com/andreasAabo/Software-Technology-Experiment-6/tree/experiment2
+https://github.com/andreasAabo/Software-Technology-Experiment-7
 
 
 <br>
 
-To jump between the links, just change branch in any of the links above.
+The code for each experminet can be found in the same folder:
+
+```/src/main/java```
 
 ---
 
 <h3> Technical problems </h3>
 
-I did not really have any technical issues, but I realized some of the code needed to run the code in experiment 2 where not given in the tutorial itself. This was easy to solve since the tutorial had several points where I could check for code differences ("View the full code at this point"). This made it easy to just copy in parts my code was missing, like ReactDom.render() and the div structure inside the render function in the Board class.
+Most of the experiments went smoothly, though is had to do some trouble shooting when installing RabbitMQ. When i first installed the program i did not run the installtion files as an administrator, which caoused issues. This was resolved with resintallion RabbitMQ and Erlang as adminsitrator.
+
+Furthermore the third experminet gave me some issues when doing the first testing of Worker and NewTask class. This was caused by the doWork method that throws InterruptedException. Error message:
+```
+java: unreported exception java.lang.InterruptedException; must be caught or declared to be thrown
+```
+Fixed the error message from the doWork method with implementing the try-catch version of doWork that was shown in the end of the Work Queues Tutorial.
+
+Lastly I had some issues with getting alle the commands in the console to work. Some of this confusion was caused by the tutorial using ```$CP```, while Windows users need to use ```%CP%``` and some confusion came from not knowing where the .jar files where supposed to be placed and not knowing how set up a classpath. Most of these issues resolved them self after getting more experienced with the diffrent commands.
 
 ---
 
